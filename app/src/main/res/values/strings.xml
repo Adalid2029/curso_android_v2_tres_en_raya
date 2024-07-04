@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tres en raya</string>
+    <string name="turno">Turno del Jugador 1</string>
+    <string name="reiniciar_juego">Reiniciar juego</string>
+</resources>
